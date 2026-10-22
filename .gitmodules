@@ -1,0 +1,3 @@
+[submodule "DebuggingDemo"]
+	path = DebuggingDemo
+	url = https://github.com/mrfoxy-cyber/DebuggingDemo.git
