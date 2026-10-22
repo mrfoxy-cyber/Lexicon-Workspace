@@ -10,3 +10,6 @@
 [submodule "Encapsulation"]
 	path = Encapsulation
 	url = https://github.com/mrfoxy-cyber/Encapsulation.git
+[submodule "Garage-v2"]
+	path = Garage-v2
+	url = https://github.com/mrfoxy-cyber/Garage-v2.git
