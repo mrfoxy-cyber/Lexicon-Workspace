@@ -1,3 +1,6 @@
 [submodule "DebuggingDemo"]
 	path = DebuggingDemo
 	url = https://github.com/mrfoxy-cyber/DebuggingDemo.git
+[submodule "GarageArraysSolution"]
+	path = GarageArraysSolution
+	url = https://github.com/mrfoxy-cyber/Garage.git
