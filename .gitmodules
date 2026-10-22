@@ -4,3 +4,6 @@
 [submodule "GarageArraysSolution"]
 	path = GarageArraysSolution
 	url = https://github.com/mrfoxy-cyber/Garage.git
+[submodule "Uppgift1-Restaurang"]
+	path = Uppgift1-Restaurang
+	url = https://github.com/mrfoxy-cyber/Uppgift1-Restaurang.git
