@@ -121,14 +121,14 @@ namespace LinqOvningar
             //• Räkna ut medelpoäng.
             //• Hitta lägsta och högsta poäng.
 
-            var sum = studenter.Select(x => x.Poang).Sum();
-
-            var medel = sum / countStudents;
+            var sum = studenter.Sum(x => x.Poang);
 
             var topOchLow = (
-                                 Min: studenter.Min(x => x.Poang),
-                                 Max: studenter.Max(x => x.Poang)
-                             );
+                Sum: sum,
+                Average: (double)sum / countStudents,
+                Min: studenter.Min(x => x.Poang),
+                Max: studenter.Max(x => x.Poang)
+            );
 
 
         }
