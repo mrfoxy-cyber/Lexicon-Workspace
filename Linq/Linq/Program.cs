@@ -28,7 +28,7 @@ namespace LinqOvningar
  new Student { Id = 8, Namn = "Hanna", Alder = 20, Klass = "B", Poang = 95 }
  };
             Console.WriteLine("LINQ-ÖVNINGAR MED STUDENTER\n");
-            ---
+            
         }
     }
 }
