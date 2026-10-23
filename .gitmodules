@@ -13,3 +13,6 @@
 [submodule "Garage-v2"]
 	path = Garage-v2
 	url = https://github.com/mrfoxy-cyber/Garage-v2.git
+[submodule "Linq"]
+	path = Linq
+	url = https://github.com/mrfoxy-cyber/Linq.git
