@@ -6,13 +6,13 @@ Program2 program2 = new Program2();
 program1.Run();
 program2.Go();
 
-IProgram Iprogram1 = new Program1();
-IProgram Iprogram2 = new Program2();
+IProgram Iprogram1 = program1;
+IProgram Iprogram2 = program2;
 
 Iprogram1.Start();
 Iprogram2.Start();
 
-IStop Istop = new Program1();
+IStop Istop = program1;
 
 Istop.Stop();
 
