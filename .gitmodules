@@ -16,3 +16,6 @@
 [submodule "Linq"]
 	path = Linq
 	url = https://github.com/mrfoxy-cyber/Linq.git
+[submodule "UML"]
+	path = UML
+	url = https://github.com/mrfoxy-cyber/UML.git
