@@ -19,3 +19,6 @@
 [submodule "UML"]
 	path = UML
 	url = https://github.com/mrfoxy-cyber/UML.git
+[submodule "Garage-V3"]
+	path = Garage-V3
+	url = https://github.com/mrfoxy-cyber/Garage-v3.git
